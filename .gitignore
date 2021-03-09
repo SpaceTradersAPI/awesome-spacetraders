@@ -1,0 +1,86 @@
+# Created with https://www.toptal.com/developers/gitignore/api
+
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### Magic-xpa ###
+# refer to http://www.magicsoftware.com/magic-xpa-application-platform
+# ProgramHeaders.xml serves as a cache file for program headers which is rebuilt if non existent
+ProgramHeaders.xml
+# DataSourcesIndex.xml serves as a cache file for header information of DataSources.xml which is rebuilt if non existent
+DataSourcesIndex.xml
+# ignores cross reference results stored in project directory
+*.XRF
+# ignores studio options and their backups
+*.opt
+*.optback
+# sometimes Magic creates backups of different xml files, not deleted on crashes
+*_BCK.xml
+# if a project is opened, a .lock file is created in the project directory to prevent multiple opens, ignored.
+*.lock
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
