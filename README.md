@@ -13,7 +13,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 
 ## Client
 
-* [Deliverance](https://github.com/Stumblinbear/Deliverance) - VueJS-based web interface for Space Traders
+* [Deliverance](https://github.com/Stumblinbear/Deliverance) - VueJS-based web interface for Space Traders.
 
 ## SDKs
 
