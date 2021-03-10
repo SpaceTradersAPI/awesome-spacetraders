@@ -6,12 +6,16 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 
 ## Contents
 
-- [Client](#client)
-- [SDKs](#sdks)
-- [Assets](#assets)
-- [Tutorials](#tutorials)
+- [Awesome SpaceTraders](#awesome-spacetraders)
+  - [Contents](#contents)
+  - [Client](#client)
+  - [SDKs](#sdks)
+  - [Assets](#assets)
+  - [Tutorials](#tutorials)
 
 ## Client
+
+- [Trade Warriors](https://thaurin.github.io/trade-warriors/) - Trade Warriors is a frontend for the Space Traders API, written in Vue 3.
 
 ## SDKs
 
