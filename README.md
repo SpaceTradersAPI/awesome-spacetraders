@@ -6,13 +6,17 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 
 ## Contents
 
-- [Client](#client)
-- [SDKs](#sdks)
-- [Assets](#assets)
-- [Tutorials](#tutorials)
+- [Awesome SpaceTraders](#awesome-spacetraders)
+  - [Contents](#contents)
+  - [Client](#client)
+  - [SDKs](#sdks)
+  - [Assets](#assets)
+  - [Tutorials](#tutorials)
 
 ## Client
 * [Deliverance](https://github.com/Stumblinbear/Deliverance) - VueJS-based web interface for Space Traders.
+
+- [Trade Warriors](https://thaurin.github.io/trade-warriors/) - Trade Warriors is a frontend for the Space Traders API, written in Vue 3.
 
 ## SDKs
 - [space_trader](https://github.com/HOWZ1T/space_trader) - An Golang api wrapper with internal caching and an event system.
