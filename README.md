@@ -17,6 +17,8 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 
 ## SDKs
 
+* [SpaceMongers](https://github.com/ericgroom/space_mongers) - Elixir API wrapper with integrated rate limiting.
+
 ## Assets
 
 ## Tutorials
