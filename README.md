@@ -6,12 +6,12 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 
 ## Contents
 
-- [Awesome SpaceTraders](#awesome-spacetraders)
-  - [Contents](#contents)
-  - [Client](#client)
-  - [SDKs](#sdks)
-  - [Assets](#assets)
-  - [Tutorials](#tutorials)
+* [Awesome SpaceTraders](#awesome-spacetraders)
+  * [Contents](#contents)
+  * [Client](#client)
+  * [SDKs](#sdks)
+  * [Assets](#assets)
+  * [Tutorials](#tutorials)
 
 ## Client
 
