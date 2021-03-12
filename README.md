@@ -18,6 +18,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 * [Deliverance](https://github.com/Stumblinbear/Deliverance) - VueJS-based web interface for Space Traders.
 * [TradeCommander](https://github.com/DotEfekts/TradeCommander/) - A browser-based CLI style interface written in Blazor WebAssembly.
 * [Trade Warriors](https://github.com/thaurin/trade-warriors) - Trade Warriors is a frontend for the Space Traders API, written in Vue 3.
+* [Atomic Traders](https://github.com/HamishWHC/atomic-traders) - Svelte dashboard.
 
 ## SDKs
 
