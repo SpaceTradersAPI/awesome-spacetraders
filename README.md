@@ -19,6 +19,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 * [Erebos](https://github.com/Kaishiyoku/erebos) - React-based web application for Space Traders.
 * [TradeCommander](https://github.com/DotEfekts/TradeCommander/) - A browser-based CLI style interface written in Blazor WebAssembly.
 * [Trade Warriors](https://github.com/thaurin/trade-warriors) - Trade Warriors is a frontend for the Space Traders API, written in Vue 3.
+* [Vocivos](https://github.com/kurt1288/Vocivos) - A browser-based web interface built with React.
 
 ## SDKs
 
