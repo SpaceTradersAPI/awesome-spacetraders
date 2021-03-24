@@ -27,6 +27,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 * [space_trader](https://github.com/HOWZ1T/space_trader) - An Golang api wrapper with internal caching and an event system.
 * [SpaceMongers](https://github.com/ericgroom/space_mongers) - Elixir API wrapper with integrated rate limiting.
 * [spacetraders-sdk](https://github.com/notVitaliy/spacetraders-io) - A Javascript/Typescript SDK.
+* [SpaceTradersPHP](https://github.com/rayblair06/SpaceTradersPHP) - A PHP Api Wrapper.
 
 ## Assets
 
