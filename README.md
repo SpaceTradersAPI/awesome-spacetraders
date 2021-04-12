@@ -31,4 +31,6 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 
 ## Assets
 
+* [Manufacturer Logos](https://github.com/bknyn/spacetraders-manufacturers-logos) - SVG logos for ship manufacturers
+
 ## Tutorials
