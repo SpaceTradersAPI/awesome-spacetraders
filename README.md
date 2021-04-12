@@ -30,6 +30,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 * [SpaceTradersPHP](https://github.com/rayblair06/SpaceTradersPHP) - A PHP Api Wrapper.
 
 ## Assets
+
 * [Manufacturer Logos](https://github.com/bknyn/spacetraders-manufacturers-logos) - SVG logos for ship manufacturers
 
 ## Tutorials
