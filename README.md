@@ -32,7 +32,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 
 ## 3rd party APIs
 
-* [Static API](https://github.com/bahrmichael/spacetraders-apis/blob/main/README.md#static-api) - An API with static information about the universe, like information about routes.
+* [Static API](https://github.com/bahrmichael/spacetraders-apis/blob/main/README.md#static-api) - An API with static information about the universe, like information about routes and goods.
 * [Market API](https://github.com/bahrmichael/spacetraders-apis/blob/main/README.md#market-api) - An API that replicates market information without any rate limiting.
 
 ## Assets
