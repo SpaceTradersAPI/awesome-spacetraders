@@ -28,6 +28,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 * [SpaceMongers](https://github.com/ericgroom/space_mongers) - Elixir API wrapper with integrated rate limiting.
 * [spacetraders-sdk](https://github.com/notVitaliy/spacetraders-io) - A Javascript/Typescript SDK.
 * [SpaceTradersPHP](https://github.com/rayblair06/SpaceTradersPHP) - A PHP Api Wrapper.
+* [SpacePyTraders](https://github.com/ZacHooper/spacePyTraders) - A Python SDK.
 
 ## Assets
 
