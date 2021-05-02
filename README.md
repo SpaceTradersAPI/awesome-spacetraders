@@ -10,6 +10,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
   * [Contents](#contents)
   * [Client](#client)
   * [SDKs](#sdks)
+  * [3rd party APIs](#3rd-party-apis)
   * [Assets](#assets)
   * [Tutorials](#tutorials)
 
@@ -29,6 +30,11 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 * [spacetraders-sdk](https://github.com/notVitaliy/spacetraders-io) - A Javascript/Typescript SDK.
 * [SpaceTradersPHP](https://github.com/rayblair06/SpaceTradersPHP) - A PHP Api Wrapper.
 * [SpacePyTraders](https://github.com/ZacHooper/spacePyTraders) - A Python SDK.
+
+## 3rd party APIs
+
+* [Static API](https://github.com/bahrmichael/spacetraders-apis/blob/main/README.md#static-api) - An API with static information about the universe, like information about routes and goods.
+* [Market API](https://github.com/bahrmichael/spacetraders-apis/blob/main/README.md#market-api) - An API that replicates market information without any rate limiting.
 
 ## Assets
 
