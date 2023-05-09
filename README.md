@@ -2,6 +2,8 @@
 
 A list of resources connected to the [SpaceTraders API](https://spacetraders.io/). Each section is ordered in alphabetical order.
 
+Some resources are for the V1 API and we are welcoming any submissions for the recently released V2 API.
+
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## Contents
@@ -13,7 +15,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
   * [Assets](#assets)
   * [Tutorials](#tutorials)
 
-## Client
+## V1 Clients
 
 * [Deliverance](https://github.com/Stumblinbear/Deliverance) - VueJS-based web interface for Space Traders.
 * [Erebos](https://github.com/Kaishiyoku/erebos) - React-based web application for Space Traders.
@@ -21,7 +23,7 @@ A list of resources connected to the [SpaceTraders API](https://spacetraders.io/
 * [Trade Warriors](https://github.com/thaurin/trade-warriors) - Trade Warriors is a frontend for the Space Traders API, written in Vue 3.
 * [Vocivos](https://github.com/kurt1288/Vocivos) - A browser-based web interface built with React.
 
-## SDKs
+## V1 SDKs
 
 * [MerchantExpanse](https://github.com/Oronar/MerchantExpanse) - A .NET 5 API wrapper.
 * [space_trader](https://github.com/HOWZ1T/space_trader) - An Golang api wrapper with internal caching and an event system.
