@@ -17,6 +17,7 @@ Some resources are for the V1 API and we are welcoming any submissions for the r
 
 ## V1 Clients
 
+* [Airlock](https://github.com/elilambnz/airlock) - A web app made with React.
 * [Deliverance](https://github.com/Stumblinbear/Deliverance) - VueJS-based web interface for Space Traders.
 * [Erebos](https://github.com/Kaishiyoku/erebos) - React-based web application for Space Traders.
 * [TradeCommander](https://github.com/DotEfekts/TradeCommander/) - A browser-based CLI style interface written in Blazor WebAssembly.
