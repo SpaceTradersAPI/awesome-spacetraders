@@ -19,6 +19,7 @@ Some resources are for the V1 API and we are welcoming any submissions for the r
 
 * [Deliverance](https://github.com/Stumblinbear/Deliverance) - VueJS-based web interface for Space Traders.
 * [Erebos](https://github.com/Kaishiyoku/erebos) - React-based web application for Space Traders.
+* [Postman](https://www.postman.com/devrel/workspace/spacetraders-api/overview) - A Postman collection with API calls.
 * [TradeCommander](https://github.com/DotEfekts/TradeCommander/) - A browser-based CLI style interface written in Blazor WebAssembly.
 * [Trade Warriors](https://github.com/thaurin/trade-warriors) - Trade Warriors is a frontend for the Space Traders API, written in Vue 3.
 * [Vocivos](https://github.com/kurt1288/Vocivos) - A browser-based web interface built with React.
