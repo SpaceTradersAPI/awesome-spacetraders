@@ -32,6 +32,10 @@ Some resources are for the V1 API and we are welcoming any submissions for the r
 * [SpaceTradersPHP](https://github.com/rayblair06/SpaceTradersPHP) - A PHP Api Wrapper.
 * [SpacePyTraders](https://github.com/ZacHooper/spacePyTraders) - A Python SDK.
 
+## V2 SDKs
+
+* [@johanvanhelden/spacetraders-v2-ts](https://www.npmjs.com/package/@johanvanhelden/spacetraders-v2-ts) - A Typescript SDK
+
 ## Assets
 
 * [Manufacturer Logos](https://github.com/bknyn/spacetraders-manufacturers-logos) - SVG logos for ship manufacturers
